@@ -1,0 +1,16 @@
+.dark {
+  background: black;
+}
+
+.dark .list {
+  color: aquamarine;
+}
+
+.dark .text {
+  color: white;
+}
+
+.dark .btn {
+  background: black;
+  color: white;
+}
